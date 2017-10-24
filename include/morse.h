@@ -20,6 +20,7 @@ int morse(char *user_input, struct ascii_morse[]);
 int isCharInString (char * string, char character);
 void makeUppercase(char * string);
 void printMorse (char * input, struct ascii_morse table[]);
+void printCharacters (char * input, struct ascii_morse table[]);
 
 
 
